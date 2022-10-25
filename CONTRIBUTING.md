@@ -6,7 +6,6 @@ We are building and providing tools, modules and services around Cosmos ecosyste
 
 🔔 A few repositories are current privately with restricted access for some core members, and will be public when these are available in term of using. Start browsing for projects [here](https://github.com/orgs/tcnetworkio/repositories).
 
-
 📮 If you want to contact us :
 
 [![Website](https://img.shields.io/badge/Website-F68315?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tcnetwork.io)

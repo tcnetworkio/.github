@@ -1,4 +1,4 @@
-[![tcnetwork github banner](/profile/static/tcnetwork-banner.jpeg)](https://tcnetwork.io)
+[![tcnetwork github banner](/profile/static/tcnetwork-banner.png)](https://tcnetwork.io)
 
 `TC Network` is a group of technical developers participating in `Cosmos` ecosystem, building and providing tools, services, decentralized applications as well as supporting Cosmos community.
 
@@ -11,6 +11,7 @@
 `TC Network` had joined to many Cosmos blockchain projects as mainnet and testnet validator role. We help to improve the network decentralization, security and scalability.
 
 👉 Here is some chains that TC Network join as validator:
+
 - Mainnet: EVMOS, Nomic, Gravity Bridge,  Rebus, Desmos, Galaxy, Idep, Dig...
 - Testnet: Aura, MUN, HyperSign, OKP4, Defund, Quicksilver, Crescent...
 
@@ -21,8 +22,9 @@ We're running on multiple dedicated servers from different cloud providers for m
 The first service we are support to Cosmos community is our staking UI. This service allows user/investor not only staking their coin but also tracking on-chain transactions with nice and good performance.
 
 👉 Current we supported EVMOS and Rebus chains:
-- EVMOS staking: https://evmos.tcnetwork.io
-- Rebus staking: https://rebus.tcnetwork.io
+
+- [EVMOS staking](https://evmos.tcnetwork.io)
+- [Rebus staking](https://rebus.tcnetwork.io)
 
 We will expanding the number of chains we are going to support by time.
 
@@ -42,4 +44,3 @@ We will expanding the number of chains we are going to support by time.
 </p>
 
 <p align="center">Decentralization is the future of internet!</p>
-

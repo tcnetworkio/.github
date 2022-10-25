@@ -45,7 +45,7 @@ jobs:
           use-verbose-mode: "yes"
           base-branch: "main"
           check-modified-files-only: "no"
-          config-file: ".mlc_config.json"
+          config-file: ".commitlintrc.json"
 
   lint-yaml:
     runs-on: ubuntu-20.04
