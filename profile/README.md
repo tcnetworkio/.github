@@ -10,20 +10,23 @@
 
 `TC Network` had joined to many Cosmos blockchain projects as mainnet and testnet validator role. We help to improve the network decentralization, security and scalability.
 
-👉 Here is some chains that TC Network join as validator:
+👉 Here is some cosmos chains that TC Network join as validator:
 
-- Mainnet: EVMOS, Nomic, Gravity Bridge,  Rebus, Desmos, Galaxy, Idep, Dig...
-- Testnet: Aura, MUN, HyperSign, OKP4, Defund, Quicksilver, Crescent...
+- Mainnet: Evmos, Rebus, Nomic, Gravity Bridge, Desmos, Galaxy, Idep, Dig, Cerberus...
+- Testnet: Aura, Defund, MUN, Ollo, Gitopia, HyperSign, Nibiru, Quicksilver, Crescent...
 
-We're running on multiple dedicated servers from different cloud providers for maximum reliability and security. And using Grafana, Prometheous and other tools to help us monitoring and alerting.
+👉 We're running on multiple dedicated servers from different cloud providers for maximum reliability and security.
+
+- Providing helpful scripts for setting up node, installing auto compound service. For detail please check [here](https://github.com/tcnetworkio/validator.tcnetwork.io).
+- Monitoring node and validator with Grafana, Prometheous, Cosmos Exporter and other useful tools, and setting bot for Telegram alerting. Can check detail [here](https://github.com/tcnetworkio/monitor.tcnetwork.io).
 
 ## 🎁 Staking Service
 
 The first service we are support to Cosmos community is our staking UI. This service allows user/investor not only staking their coin but also tracking on-chain transactions with nice and good performance.
 
-👉 Current we supported EVMOS and Rebus chains:
+👉 Current we supported Evmos and Rebus chains:
 
-- [EVMOS staking](https://evmos.tcnetwork.io)
+- [Evmos staking](https://evmos.tcnetwork.io)
 - [Rebus staking](https://rebus.tcnetwork.io)
 
 We will expanding the number of chains we are going to support by time.
