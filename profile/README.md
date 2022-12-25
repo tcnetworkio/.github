@@ -22,14 +22,19 @@
 
 ## 🎁 Staking Service
 
-The first service we are support to Cosmos community is our staking UI. This service allows user/investor not only staking their coin but also tracking on-chain transactions with nice and good performance.
+The first service we are support to Cosmos community is our staking UI. This service allows user/investor not only staking their coin but also tracking on-chain transactions with user-friendly and good performance.
 
-👉 Current we supported Evmos and Rebus chains:
+👉 We supported thoses chains that we are joinning:
+
+- [Mainnet](https://explorer.tcnetwork.io)
+- [Testnet](https://testnet.explorer.tcnetwork.io)
+
+👉 Seperated Evmos and Rebus explorer:
 
 - [Evmos staking](https://evmos.tcnetwork.io)
 - [Rebus staking](https://rebus.tcnetwork.io)
 
-We will expanding the number of chains we are going to support by time.
+👉 We will expanding the number of chains that we are going to support by time. Staking with us to help decentralize and secure networks.
 
 ## 💁 Participating in the community
 
