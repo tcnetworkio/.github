@@ -41,13 +41,11 @@ The first service we are support to Cosmos community is our staking UI. This ser
 <br/>
 
 <p align="center">
-  <a href="https://t.me/tcnetwork_en" alt="Cosmos Network"><img src="/profile/static/telegram.svg" width="64" /></a>
+  <a href="https://t.me/tcnetworkio" alt="Cosmos Network"><img src="/profile/static/telegram.svg" width="64" /></a>
   &nbsp; &nbsp;
-  <a href="https://twitter.com/TCNetwork_io"><img src="/profile/static/twitter.svg" width="64" /></a>
+  <a href="https://twitter.com/tcnetworkio"><img src="/profile/static/twitter.svg" width="64" /></a>
   &nbsp; &nbsp;
   <a href="https://github.com/tcnetworkio"><img src="/profile/static/github.svg" width="64" /></a>
-  &nbsp; &nbsp;
-  <a href="https://t.me/tcnetwork_vn" alt="Cosmos Network Vietnam"><img src="/profile/static/telegram.svg" width="64" /></a>
   &nbsp; &nbsp;
 </p>
 
